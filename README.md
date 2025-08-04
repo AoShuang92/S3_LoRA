@@ -9,4 +9,4 @@ To run the agent planner plus solver:
 
 ```
 cd script/rewoo
-bash eval-demo.sh
+bash eval_demo.sh
